@@ -1,4 +1,4 @@
-Install YouTrack 5.2.2 on OpenShift
+Install YouTrack 5.2.3 on OpenShift
 ===================================
 
 If you don't have an OpenShift account yet go here https://www.openshift.com/get-started
